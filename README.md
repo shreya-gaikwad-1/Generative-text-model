@@ -1,9 +1,9 @@
 # Generative-text-model
-Company: CODTECH IT SOLUTIONS
-Name: Shreya Sandesh Gaikwad
-Intern ID: CT08DN1787
-Domain: Artificial Intelligence
-Duration: 8 weeks 
+Company: CODTECH IT SOLUTIONS |
+Name: Shreya Sandesh Gaikwad |
+Intern ID: CT08DN1787 |
+Domain: Artificial Intelligence |
+Duration: 8 weeks |
 Mentor: Neela Santosh
 
 A generative text model built using Hugging Face Transformers and implemented in Google Colab. It uses a pre-trained language model to generate text based on user input. Includes a Gradio interface for easy interaction and testing.
